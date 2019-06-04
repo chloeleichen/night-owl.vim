@@ -65,13 +65,13 @@ hi jsBooleanFalse guifg=#ff5874 ctermfg=204 gui=NONE cterm=NONE
 hi jsBooleanTrue guifg=#ff5874 ctermfg=204 gui=NONE cterm=NONE
 hi jsRegexpString guifg=#5ca7e4 ctermfg=74 gui=NONE cterm=NONE
 hi jsConditional guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
-hi jsFunction guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
+hi jsFunction guifg=#c792ea ctermfg=176 gui=italic cterm=italic
 hi jsReturn guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
 hi jsFuncName guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
 hi link jsParensError jsFuncParens
 hi jsClassDefinition guifg=#ecc48d ctermfg=222 gui=NONE cterm=NONE
-hi jsImport guifg=#c792ea ctermfg=176 gui=italic cterm=italic
-hi jsFrom guifg=#c792ea ctermfg=176 gui=italic cterm=italic
+hi jsImport guifg=#5f87af ctermfg=67 gui=italic cterm=italic
+hi jsFrom guifg=#7fdbca ctermfg=67 gui=NONE cterm=NONE
 hi jsModuleAs guifg=#c792ea ctermfg=176 gui=italic cterm=italic
 hi jsExport guifg=#7fdbca ctermfg=116 gui=NONE cterm=NONE
 hi jsExportDefault guifg=#7fdbca ctermfg=116 gui=NONE cterm=NONE
@@ -83,7 +83,7 @@ hi javaScriptBoolean guifg=#ff5874 ctermfg=204 gui=NONE cterm=NONE
 hi javaScriptBraces guifg=#d6deeb ctermfg=253 gui=NONE cterm=NONE
 hi javaScriptLineComment guifg=#637777 ctermfg=243 gui=italic cterm=italic
 hi javaScriptSpecial guifg=#f78c6c ctermfg=209 gui=NONE cterm=NONE
-hi javaScriptFunction guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
+hi javaScriptFunction guifg=#c792ea ctermfg=176 gui=italic cterm=italic
 hi javaScriptStatement guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
 hi javaScriptException guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
 hi scssSelectorName guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
