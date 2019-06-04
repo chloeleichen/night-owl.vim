@@ -29,11 +29,11 @@ hi VertSplit guifg=#777777 ctermfg=243 gui=NONE cterm=NONE
 hi Folded guifg=#777777 ctermfg=243 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi FoldColumn guifg=#333333 ctermfg=236 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
-hi IncSearch guifg=#eeeeee ctermfg=255 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
+hi IncSearch guifg=#ff0000 ctermfg=196 guibg=#ffff00 ctermbg=226 gui=NONE cterm=NONE
 hi NonText guifg=#444444 ctermfg=238 gui=NONE cterm=NONE
 hi PMenu guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
 hi PMenuSel guibg=#c792ea ctermbg=176 gui=NONE cterm=NONE
-hi Search guifg=#011627 ctermfg=233 guibg=#ecc48d ctermbg=222 gui=NONE cterm=NONE
+hi Search guifg=#ff0000 ctermfg=196 guibg=#ffff00 ctermbg=226 gui=NONE cterm=NONE
 hi SpecialKey guifg=#444444 ctermfg=238 gui=NONE cterm=NONE
 hi Title guifg=#d6deeb ctermfg=253 gui=NONE cterm=NONE
 hi Visual guifg=#d6deeb ctermfg=253 guibg=#2d2c5d ctermbg=236 gui=NONE cterm=NONE
@@ -140,6 +140,8 @@ hi GitGutterAdd guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
 hi GitGutterChange guifg=#ecc48d ctermfg=222 gui=NONE cterm=NONE
 hi GitGutterDelete guifg=#ff5874 ctermfg=204 gui=NONE cterm=NONE
 hi GitGutterChangeDelete guifg=#ecc48d ctermfg=222 gui=NONE cterm=NONE
+hi Pmenu guibg=#7fdbca ctermbg=116  guifg=#000000 ctermfg=16 gui=NONE cterm=NONE
+hi PmenuSel guibg=#ffff00 ctermbg=11 guifg=#000000 ctermfg=16 gui=NONE cterm=NONE
 
 let g:terminal_color_foreground = "#d6deeb"
 let g:terminal_color_background = "#011627"
