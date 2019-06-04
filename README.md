@@ -1,6 +1,9 @@
 Based on sdras/night-owl-vscode-theme and haishanh/night-owl.vim but made extra colorful cos who doesn't like colors!
 
 get vim-jsx for best effect when working with React 
+<p align="center">
+  <img width="860" alt="Night Owl Vim colorscheme screenshot" src="https://github.com/chloeleichen/night-owl.vim/blob/master/screenshot.png?raw=true">
+</p>
 
 ## Usage
 
